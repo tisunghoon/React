@@ -1,6 +1,6 @@
 // 1. 리액트 사전에서 필요한 도구 가져오기
 // useState는 데이터(상태)를 관리해 주는 리액트의 핵심 마법 지팡이야.
-import { useState } from 'react';
+import {useState} from 'react';
 
 // 2. 화면 설계도 (컴포넌트) 만들기
 // 예전에는 복잡한 클래스(class)를 썼지만, 요즘은 이렇게 심플한 함수(function)로 만들어!
